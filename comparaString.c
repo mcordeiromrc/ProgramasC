@@ -7,7 +7,7 @@
     -1 -> a string1 for menor que a string2
     1 - quando a str1 for maior que a str2
 */
-
+//Alterado no GitHub
 int main(){
 
     char palavra1[50] = {"bola"};
